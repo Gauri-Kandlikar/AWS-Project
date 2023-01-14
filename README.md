@@ -1,1 +1,12 @@
 ##output
+![l1](https://user-images.githubusercontent.com/38131345/212493089-165740fe-28eb-447d-825a-424dc0603f60.png)
+![l2](https://user-images.githubusercontent.com/38131345/212493092-4c1dc209-07b6-4ea9-93da-3187ec9ae99c.png)
+![l3](https://user-images.githubusercontent.com/38131345/212493150-d40f6dba-94e7-4642-aafe-ce4f8e33b3c0.png)
+![l4](https://user-images.githubusercontent.com/38131345/212493155-2a9bdf34-29c1-43e6-accb-598262f8d578.png)
+![l5](https://user-images.githubusercontent.com/38131345/212493167-cf561a89-0b11-45d9-9818-be61339be6dd.png)
+![l14](https://user-images.githubusercontent.com/38131345/212493183-6673017b-0e07-4300-9112-8fa4735bfe4f.png)
+![l15](https://user-images.githubusercontent.com/38131345/212493190-731e1a84-1b2f-4666-9ba4-a68a2520026e.png)
+![l6](https://user-images.githubusercontent.com/38131345/212493238-6e614b26-9cfd-4e53-9a8f-646c925d2638.png)
+![l7](https://user-images.githubusercontent.com/38131345/212493245-62deb3b1-76a8-479c-93ff-5d448f0907a4.png)
+![l8](https://user-images.githubusercontent.com/38131345/212493253-141dfa72-de11-4932-a7bf-d3df0c73b16b.png)
+![l9](https://user-images.githubusercontent.com/38131345/212493263-32505b5a-c336-47d2-8d08-185ff133d7bf.png)
